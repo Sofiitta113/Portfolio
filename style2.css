@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(212, 255, 212);
+}
+.link-header{
+    text-decoration:none;
+    border: 2px dotted green;
+    color: rgb(3, 30, 3);
+    padding:4px;
+    font-size: 20px;
+      background-image:linear-gradient(to right, rgb(44, 130, 44), rgb(52, 186, 52), rgb(97, 225, 97));
+}
+h1{
+    text-align: center;
+    color: rgb(5, 50, 5)
+}
+.social{
+    Float: right;
+    margin: 10px;
+}
+h3{
+    color: rgb(1, 34, 0)
+}
+li{
+   font-size: 17px;
+   color: rgb(4, 26, 4);
+}
+
